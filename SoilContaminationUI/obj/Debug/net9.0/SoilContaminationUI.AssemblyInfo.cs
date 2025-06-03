@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SoilContaminationUI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c9da8326a0b9fe5332f08129fa7318020e7b732b")]
 [assembly: System.Reflection.AssemblyProductAttribute("SoilContaminationUI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SoilContaminationUI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

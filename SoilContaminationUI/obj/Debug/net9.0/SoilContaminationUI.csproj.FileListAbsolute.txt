@@ -90,3 +90,10 @@
 /Users/priyanshurastogi/Downloads/SoilContaminationApi/SoilContaminationUI/obj/Debug/net9.0/SoilContaminationUI.pdb
 /Users/priyanshurastogi/Downloads/SoilContaminationApi/SoilContaminationUI/obj/Debug/net9.0/SoilContaminationUI.genruntimeconfig.cache
 /Users/priyanshurastogi/Downloads/SoilContaminationApi/SoilContaminationUI/obj/Debug/net9.0/ref/SoilContaminationUI.dll
+/Users/priyanshurastogi/Downloads/SoilContaminationApi/SoilContaminationUI/bin/Debug/net9.0/publish/web.config
+/Users/priyanshurastogi/Downloads/SoilContaminationApi/SoilContaminationUI/bin/Debug/net9.0/publish/appsettings.Development.json
+/Users/priyanshurastogi/Downloads/SoilContaminationApi/SoilContaminationUI/bin/Debug/net9.0/publish/appsettings.json
+/Users/priyanshurastogi/Downloads/SoilContaminationApi/SoilContaminationUI/bin/Debug/net9.0/publish/SoilContaminationUI.deps.json
+/Users/priyanshurastogi/Downloads/SoilContaminationApi/SoilContaminationUI/bin/Debug/net9.0/publish/SoilContaminationUI.runtimeconfig.json
+/Users/priyanshurastogi/Downloads/SoilContaminationApi/SoilContaminationUI/bin/Debug/net9.0/publish/SoilContaminationUI.staticwebassets.endpoints.json
+/Users/priyanshurastogi/Downloads/SoilContaminationApi/SoilContaminationUI/obj/Debug/net9.0/SoilContaminationUI.sourcelink.json

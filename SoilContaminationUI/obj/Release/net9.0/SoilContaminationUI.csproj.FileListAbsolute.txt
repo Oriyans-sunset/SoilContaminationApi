@@ -90,3 +90,4 @@
 /Users/priyanshurastogi/Downloads/SoilContaminationApi/SoilContaminationUI/obj/Release/net9.0/SoilContaminationUI.pdb
 /Users/priyanshurastogi/Downloads/SoilContaminationApi/SoilContaminationUI/obj/Release/net9.0/SoilContaminationUI.genruntimeconfig.cache
 /Users/priyanshurastogi/Downloads/SoilContaminationApi/SoilContaminationUI/obj/Release/net9.0/ref/SoilContaminationUI.dll
+/Users/priyanshurastogi/Downloads/SoilContaminationApi/SoilContaminationUI/obj/Release/net9.0/SoilContaminationUI.sourcelink.json
