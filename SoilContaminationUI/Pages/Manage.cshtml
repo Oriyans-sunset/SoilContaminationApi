@@ -1,0 +1,70 @@
+@page
+@model ManageModel
+@{
+    ViewData["Title"] = "Manage Model.Guidelines";
+}
+
+<h2>Manage Contaminant Guidelines</h2>
+
+<form method="post">
+    <fieldset>
+        <legend>Add New Guideline</legend>
+
+        <div>
+            <label>Contaminant:</label>
+            <input asp-for="NewGuideline.Contaminant" required />
+        </div>
+        <div>
+            <label>Soil Type:</label>
+            <select asp-for="NewGuideline.SoilType" required>
+                <option value="">-- Select --</option>
+                <option value="Fine">Fine</option>
+                <option value="Coarse">Coarse</option>
+            </select>
+        </div>
+        <div>
+            <label>Pathways (comma-separated):</label>
+            <input asp-for="NewGuideline.Pathways" />
+        </div>
+        <div>
+            <label>Guideline Value:</label>
+            <input asp-for="NewGuideline.GuidelineValue" required />
+        </div>
+        <button type="submit">Add Guideline</button>
+    </fieldset>
+</form>
+
+@if (Model.Guidelines != null && Model.Guidelines.Any())
+{
+    <h3>Existing Guidelines</h3>
+    <table border="1">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Contaminant</th>
+                <th>Soil Type</th>
+                <th>Pathways</th>
+                <th>Guideline Value</th>
+                
+            </tr>
+        </thead>
+        <tbody>
+        @foreach (var g in Model.Guidelines)
+        {
+            <tr>
+                <td>@g.Id</td>
+                <td>@g.Contaminant</td>
+                <td>@g.SoilType</td>
+                <td>@string.Join(", ", g.Pathways)</td>
+                <td>@g.GuidelineValue</td>
+                <td>
+                    <form method="post" asp-page-handler="Delete">
+                        <input type="hidden" name="id" value="@g.Id" />
+                        <button type="submit">Delete</button>
+                    </form>
+                </td>
+            </tr>
+        }
+        </tbody>
+    </table>
+}

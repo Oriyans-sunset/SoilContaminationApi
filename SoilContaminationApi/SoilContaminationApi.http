@@ -1,0 +1,6 @@
+@SoilContaminationApi_HostAddress = http://localhost:5067
+
+GET {{SoilContaminationApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

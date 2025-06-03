@@ -1,0 +1,2962 @@
+[
+  {
+    "Contaminant": "Metribuzin",
+    "SoilType": "Fine",
+    "GuidelineValue": "0.024",
+    "Pathways": [
+      "Overall Guideline"
+    ]
+  },
+  {
+    "Contaminant": "Metribuzin",
+    "SoilType": "Coarse",
+    "GuidelineValue": "0.028",
+    "Pathways": [
+      "Overall Guideline"
+    ]
+  },
+  {
+    "Contaminant": "Metribuzin",
+    "SoilType": "Fine",
+    "GuidelineValue": "7.8",
+    "Pathways": [
+      "Protection of Domestic Use Aquifer"
+    ]
+  },
+  {
+    "Contaminant": "Metribuzin",
+    "SoilType": "Coarse",
+    "GuidelineValue": "15",
+    "Pathways": [
+      "Protection of Domestic Use Aquifer"
+    ]
+  },
+  {
+    "Contaminant": "Metribuzin",
+    "SoilType": "Coarse",
+    "GuidelineValue": "0.024",
+    "Pathways": [
+      "Protection of Freshwater Aquatic Life"
+    ]
+  },
+  {
+    "Contaminant": "Metribuzin",
+    "SoilType": "Fine",
+    "GuidelineValue": "0.028",
+    "Pathways": [
+      "Protection of Wildlife Water"
+    ]
+  },
+  {
+    "Contaminant": "Paraquat (as dichloride)",
+    "SoilType": "Fine",
+    "GuidelineValue": "1.1",
+    "Pathways": [
+      "Overall Guideline"
+    ]
+  },
+  {
+    "Contaminant": "Paraquat (as dichloride)",
+    "SoilType": "Coarse",
+    "GuidelineValue": "2.2",
+    "Pathways": [
+      "Overall Guideline"
+    ]
+  },
+  {
+    "Contaminant": "Paraquat (as dichloride)",
+    "SoilType": "Fine",
+    "GuidelineValue": "1.1",
+    "Pathways": [
+      "Protection of Domestic Use Aquifer"
+    ]
+  },
+  {
+    "Contaminant": "Paraquat (as dichloride)",
+    "SoilType": "Coarse",
+    "GuidelineValue": "2.2",
+    "Pathways": [
+      "Protection of Domestic Use Aquifer"
+    ]
+  },
+  {
+    "Contaminant": "Phorate",
+    "SoilType": "Fine",
+    "GuidelineValue": "0.064",
+    "Pathways": [
+      "Overall Guideline"
+    ]
+  },
+  {
+    "Contaminant": "Phorate",
+    "SoilType": "Coarse",
+    "GuidelineValue": "0.075",
+    "Pathways": [
+      "Overall Guideline"
+    ]
+  },
+  {
+    "Contaminant": "Phorate",
+    "SoilType": "Fine",
+    "GuidelineValue": "0.075",
+    "Pathways": [
+      "Protection of Domestic Use Aquifer"
+    ]
+  },
+  {
+    "Contaminant": "Phorate",
+    "SoilType": "Coarse",
+    "GuidelineValue": "0.14",
+    "Pathways": [
+      "Protection of Domestic Use Aquifer"
+    ]
+  },
+  {
+    "Contaminant": "Picloram",
+    "SoilType": "Fine",
+    "GuidelineValue": "0.024",
+    "Pathways": [
+      "Overall Guideline"
+    ]
+  },
+  {
+    "Contaminant": "Picloram",
+    "SoilType": "Coarse",
+    "GuidelineValue": "0.022",
+    "Pathways": [
+      "Overall Guideline"
+    ]
+  },
+  {
+    "Contaminant": "Picloram",
+    "SoilType": "Fine",
+    "GuidelineValue": "0.64",
+    "Pathways": [
+      "Protection of Domestic Use Aquifer"
+    ]
+  },
+  {
+    "Contaminant": "Picloram",
+    "SoilType": "Coarse",
+    "GuidelineValue": "0.94",
+    "Pathways": [
+      "Protection of Domestic Use Aquifer"
+    ]
+  },
+  {
+    "Contaminant": "Picloram",
+    "SoilType": "Coarse",
+    "GuidelineValue": "0.024",
+    "Pathways": [
+      "Protection of Freshwater Aquatic Life"
+    ]
+  },
+  {
+    "Contaminant": "Picloram",
+    "SoilType": "Fine",
+    "GuidelineValue": "0.022",
+    "Pathways": [
+      "Protection of Wildlife Water"
+    ]
+  },
+  {
+    "Contaminant": "Simazine",
+    "SoilType": "Fine",
+    "GuidelineValue": "0.033",
+    "Pathways": [
+      "Overall Guideline"
+    ]
+  },
+  {
+    "Contaminant": "Simazine",
+    "SoilType": "Coarse",
+    "GuidelineValue": "0.038",
+    "Pathways": [
+      "Overall Guideline"
+    ]
+  },
+  {
+    "Contaminant": "Simazine",
+    "SoilType": "Fine",
+    "GuidelineValue": "0.14",
+    "Pathways": [
+      "Protection of Domestic Use Aquifer"
+    ]
+  },
+  {
+    "Contaminant": "Simazine",
+    "SoilType": "Coarse",
+    "GuidelineValue": "0.25",
+    "Pathways": [
+      "Protection of Domestic Use Aquifer"
+    ]
+  },
+  {
+    "Contaminant": "Simazine",
+    "SoilType": "Coarse",
+    "GuidelineValue": "0.033",
+    "Pathways": [
+      "Protection of Freshwater Aquatic Life"
+    ]
+  },
+  {
+    "Contaminant": "Simazine",
+    "SoilType": "Fine",
+    "GuidelineValue": "0.038",
+    "Pathways": [
+      "Protection of Wildlife Water"
+    ]
+  },
+  {
+    "Contaminant": "Tebuthiuron",
+    "SoilType": "Fine",
+    "GuidelineValue": "0.046",
+    "Pathways": [
+      "Overall Guideline"
+    ]
+  },
+  {
+    "Contaminant": "Tebuthiuron",
+    "SoilType": "Coarse",
+    "GuidelineValue": "0.046",
+    "Pathways": [
+      "Overall Guideline"
+    ]
+  },
+  {
+    "Contaminant": "Tebuthiuron",
+    "SoilType": "Fine",
+    "GuidelineValue": "2.5",
+    "Pathways": [
+      "Protection of Domestic Use Aquifer"
+    ]
+  },
+  {
+    "Contaminant": "Tebuthiuron",
+    "SoilType": "Coarse",
+    "GuidelineValue": "3.7",
+    "Pathways": [
+      "Protection of Domestic Use Aquifer"
+    ]
+  },
+  {
+    "Contaminant": "Tebuthiuron",
+    "SoilType": "Coarse",
+    "GuidelineValue": "BDL",
+    "Pathways": [
+      "Protection of Freshwater Aquatic Life"
+    ]
+  },
+  {
+    "Contaminant": "Tebuthiuron",
+    "SoilType": "Fine",
+    "GuidelineValue": "BDL",
+    "Pathways": [
+      "Protection of Wildlife Water"
+    ]
+  },
+  {
+    "Contaminant": "Terbufos",
+    "SoilType": "Fine",
+    "GuidelineValue": "0.08",
+    "Pathways": [
+      "Overall Guideline"
+    ]
+  },
+  {
+    "Contaminant": "Terbufos",
+    "SoilType": "Coarse",
+    "GuidelineValue": "0.15",
+    "Pathways": [
+      "Overall Guideline"
+    ]
+  },
+  {
+    "Contaminant": "Terbufos",
+    "SoilType": "Fine",
+    "GuidelineValue": "0.08",
+    "Pathways": [
+      "Protection of Domestic Use Aquifer"
+    ]
+  },
+  {
+    "Contaminant": "Terbufos",
+    "SoilType": "Coarse",
+    "GuidelineValue": "0.15",
+    "Pathways": [
+      "Protection of Domestic Use Aquifer"
+    ]
+  },
+  {
+    "Contaminant": "Toxaphene",
+    "SoilType": "Fine",
+    "GuidelineValue": "3.3",
+    "Pathways": [
+      "Overall Guideline"
+    ]
+  },
+  {
+    "Contaminant": "Toxaphene",
+    "SoilType": "Coarse",
+    "GuidelineValue": "6.3",
+    "Pathways": [
+      "Overall Guideline"
+    ]
+  },
+  {
+    "Contaminant": "Toxaphene",
+    "SoilType": "Fine",
+    "GuidelineValue": "3.3",
+    "Pathways": [
+      "Protection of Domestic Use Aquifer"
+    ]
+  },
+  {
+    "Contaminant": "Toxaphene",
+    "SoilType": "Coarse",
+    "GuidelineValue": "6.3",
+    "Pathways": [
+      "Protection of Domestic Use Aquifer"
+    ]
+  },
+  {
+    "Contaminant": "Triallate",
+    "SoilType": "Fine",
+    "GuidelineValue": "0.0077",
+    "Pathways": [
+      "Overall Guideline"
+    ]
+  },
+  {
+    "Contaminant": "Triallate",
+    "SoilType": "Coarse",
+    "GuidelineValue": "0.0092",
+    "Pathways": [
+      "Overall Guideline"
+    ]
+  },
+  {
+    "Contaminant": "Triallate",
+    "SoilType": "Fine",
+    "GuidelineValue": "16",
+    "Pathways": [
+      "Protection of Domestic Use Aquifer"
+    ]
+  },
+  {
+    "Contaminant": "Triallate",
+    "SoilType": "Coarse",
+    "GuidelineValue": "31",
+    "Pathways": [
+      "Protection of Domestic Use Aquifer"
+    ]
+  },
+  {
+    "Contaminant": "Triallate",
+    "SoilType": "Coarse",
+    "GuidelineValue": "0.0077",
+    "Pathways": [
+      "Protection of Freshwater Aquatic Life"
+    ]
+  },
+  {
+    "Contaminant": "Triallate",
+    "SoilType": "Fine",
+    "GuidelineValue": "0.0092",
+    "Pathways": [
+      "Protection of Wildlife Water"
+    ]
+  },
+  {
+    "Contaminant": "Trifluralin",
+    "SoilType": "Fine",
+    "GuidelineValue": "0.22",
+    "Pathways": [
+      "Overall Guideline"
+    ]
+  },
+  {
+    "Contaminant": "Trifluralin",
+    "SoilType": "Coarse",
+    "GuidelineValue": "0.045",
+    "Pathways": [
+      "Overall Guideline"
+    ]
+  },
+  {
+    "Contaminant": "Trifluralin",
+    "SoilType": "Fine",
+    "GuidelineValue": "NGR",
+    "Pathways": [
+      "Protection of Domestic Use Aquifer"
+    ]
+  },
+  {
+    "Contaminant": "Trifluralin",
+    "SoilType": "Coarse",
+    "GuidelineValue": "NGR",
+    "Pathways": [
+      "Protection of Domestic Use Aquifer"
+    ]
+  },
+  {
+    "Contaminant": "Trifluralin",
+    "SoilType": "Coarse",
+    "GuidelineValue": "0.22",
+    "Pathways": [
+      "Protection of Freshwater Aquatic Life"
+    ]
+  },
+  {
+    "Contaminant": "Trifluralin",
+    "SoilType": "Fine",
+    "GuidelineValue": "0.045",
+    "Pathways": [
+      "Protection of Wildlife Water"
+    ]
+  },
+  {
+    "Contaminant": "Aniline",
+    "SoilType": "Fine",
+    "GuidelineValue": "0.36",
+    "Pathways": [
+      "Overall Guideline"
+    ]
+  },
+  {
+    "Contaminant": "Aniline",
+    "SoilType": "Coarse",
+    "GuidelineValue": "0.6",
+    "Pathways": [
+      "Overall Guideline"
+    ]
+  },
+  {
+    "Contaminant": "Aniline",
+    "SoilType": "Fine",
+    "GuidelineValue": "0.36",
+    "Pathways": [
+      "Protection of Domestic Use Aquifer"
+    ]
+  },
+  {
+    "Contaminant": "Aniline",
+    "SoilType": "Coarse",
+    "GuidelineValue": "0.6",
+    "Pathways": [
+      "Protection of Domestic Use Aquifer"
+    ]
+  },
+  {
+    "Contaminant": "Aniline",
+    "SoilType": "Fine",
+    "GuidelineValue": "BDL",
+    "Pathways": [
+      "Protection of Freshwater Aquatic Life"
+    ]
+  },
+  {
+    "Contaminant": "Aniline",
+    "SoilType": "Coarse",
+    "GuidelineValue": "BDL",
+    "Pathways": [
+      "Protection of Freshwater Aquatic Life"
+    ]
+  },
+  {
+    "Contaminant": "Di-n-butyl phthalate",
+    "SoilType": "Fine",
+    "GuidelineValue": "0.54",
+    "Pathways": [
+      "Overall Guideline"
+    ]
+  },
+  {
+    "Contaminant": "Di-n-butyl phthalate",
+    "SoilType": "Coarse",
+    "GuidelineValue": "0.65",
+    "Pathways": [
+      "Overall Guideline"
+    ]
+  },
+  {
+    "Contaminant": "Di-n-butyl phthalate",
+    "SoilType": "Fine",
+    "GuidelineValue": "70",
+    "Pathways": [
+      "Protection of Domestic Use Aquifer"
+    ]
+  },
+  {
+    "Contaminant": "Di-n-butyl phthalate",
+    "SoilType": "Coarse",
+    "GuidelineValue": "130",
+    "Pathways": [
+      "Protection of Domestic Use Aquifer"
+    ]
+  },
+  {
+    "Contaminant": "Di-n-butyl phthalate",
+    "SoilType": "Fine",
+    "GuidelineValue": "0.54",
+    "Pathways": [
+      "Protection of Freshwater Aquatic Life"
+    ]
+  },
+  {
+    "Contaminant": "Di-n-butyl phthalate",
+    "SoilType": "Coarse",
+    "GuidelineValue": "0.65",
+    "Pathways": [
+      "Protection of Freshwater Aquatic Life"
+    ]
+  },
+  {
+    "Contaminant": "Dichlorobenzidine",
+    "SoilType": "Fine",
+    "GuidelineValue": "0.6",
+    "Pathways": [
+      "Protection of Domestic Use Aquifer"
+    ]
+  },
+  {
+    "Contaminant": "Dichlorobenzidine",
+    "SoilType": "Coarse",
+    "GuidelineValue": "1.2",
+    "Pathways": [
+      "Protection of Domestic Use Aquifer"
+    ]
+  },
+  {
+    "Contaminant": "Diethanolamine",
+    "SoilType": "Fine",
+    "GuidelineValue": "2.0",
+    "Pathways": [
+      "Overall Guideline"
+    ]
+  },
+  {
+    "Contaminant": "Diethanolamine",
+    "SoilType": "Coarse",
+    "GuidelineValue": "3.5",
+    "Pathways": [
+      "Overall Guideline"
+    ]
+  },
+  {
+    "Contaminant": "Diethanolamine",
+    "SoilType": "Fine",
+    "GuidelineValue": "1000",
+    "Pathways": [
+      "Protection of Domestic Use Aquifer"
+    ]
+  },
+  {
+    "Contaminant": "Diethanolamine",
+    "SoilType": "Coarse",
+    "GuidelineValue": "1000",
+    "Pathways": [
+      "Protection of Domestic Use Aquifer"
+    ]
+  },
+  {
+    "Contaminant": "Diethanolamine",
+    "SoilType": "Fine",
+    "GuidelineValue": "500000",
+    "Pathways": [
+      "Protection of Freshwater Aquatic Life"
+    ]
+  },
+  {
+    "Contaminant": "Diethanolamine",
+    "SoilType": "Coarse",
+    "GuidelineValue": "45",
+    "Pathways": [
+      "Protection of Freshwater Aquatic Life"
+    ]
+  },
+  {
+    "Contaminant": "Diethylene glycol",
+    "SoilType": "Fine",
+    "GuidelineValue": "10.0",
+    "Pathways": [
+      "Overall Guideline"
+    ]
+  },
+  {
+    "Contaminant": "Diethylene glycol",
+    "SoilType": "Coarse",
+    "GuidelineValue": "15.0",
+    "Pathways": [
+      "Overall Guideline"
+    ]
+  },
+  {
+    "Contaminant": "Diethylene glycol",
+    "SoilType": "Fine",
+    "GuidelineValue": "1000",
+    "Pathways": [
+      "Protection of Domestic Use Aquifer"
+    ]
+  },
+  {
+    "Contaminant": "Diethylene glycol",
+    "SoilType": "Coarse",
+    "GuidelineValue": "1000",
+    "Pathways": [
+      "Protection of Domestic Use Aquifer"
+    ]
+  },
+  {
+    "Contaminant": "Diethylene glycol",
+    "SoilType": "Fine",
+    "GuidelineValue": "2000",
+    "Pathways": [
+      "Protection of Freshwater Aquatic Life"
+    ]
+  },
+  {
+    "Contaminant": "Diethylene glycol",
+    "SoilType": "Coarse",
+    "GuidelineValue": "65",
+    "Pathways": [
+      "Protection of Freshwater Aquatic Life"
+    ]
+  },
+  {
+    "Contaminant": "Diisopropanolamine",
+    "SoilType": "Fine",
+    "GuidelineValue": "14.0",
+    "Pathways": [
+      "Overall Guideline"
+    ]
+  },
+  {
+    "Contaminant": "Diisopropanolamine",
+    "SoilType": "Coarse",
+    "GuidelineValue": "17.0",
+    "Pathways": [
+      "Overall Guideline"
+    ]
+  },
+  {
+    "Contaminant": "Diisopropanolamine",
+    "SoilType": "Fine",
+    "GuidelineValue": "130",
+    "Pathways": [
+      "Protection of Domestic Use Aquifer"
+    ]
+  },
+  {
+    "Contaminant": "Diisopropanolamine",
+    "SoilType": "Coarse",
+    "GuidelineValue": "250",
+    "Pathways": [
+      "Protection of Domestic Use Aquifer"
+    ]
+  },
+  {
+    "Contaminant": "Diisopropanolamine",
+    "SoilType": "Fine",
+    "GuidelineValue": "14",
+    "Pathways": [
+      "Protection of Freshwater Aquatic Life"
+    ]
+  },
+  {
+    "Contaminant": "Diisopropanolamine",
+    "SoilType": "Coarse",
+    "GuidelineValue": "17",
+    "Pathways": [
+      "Protection of Freshwater Aquatic Life"
+    ]
+  },
+  {
+    "Contaminant": "Ethylene glycol",
+    "SoilType": "Fine",
+    "GuidelineValue": "60.0",
+    "Pathways": [
+      "Overall Guideline"
+    ]
+  },
+  {
+    "Contaminant": "Ethylene glycol",
+    "SoilType": "Coarse",
+    "GuidelineValue": "68.0",
+    "Pathways": [
+      "Overall Guideline"
+    ]
+  },
+  {
+    "Contaminant": "Ethylene glycol",
+    "SoilType": "Fine",
+    "GuidelineValue": "60",
+    "Pathways": [
+      "Protection of Domestic Use Aquifer"
+    ]
+  },
+  {
+    "Contaminant": "Ethylene glycol",
+    "SoilType": "Coarse",
+    "GuidelineValue": "68",
+    "Pathways": [
+      "Protection of Domestic Use Aquifer"
+    ]
+  },
+  {
+    "Contaminant": "Ethylene glycol",
+    "SoilType": "Fine",
+    "GuidelineValue": "1100",
+    "Pathways": [
+      "Protection of Freshwater Aquatic Life"
+    ]
+  },
+  {
+    "Contaminant": "Ethylene glycol",
+    "SoilType": "Coarse",
+    "GuidelineValue": "1100",
+    "Pathways": [
+      "Protection of Freshwater Aquatic Life"
+    ]
+  },
+  {
+    "Contaminant": "Ethylene glycol",
+    "SoilType": "Fine",
+    "GuidelineValue": "1700.0",
+    "Pathways": [
+      "Management Limit"
+    ]
+  },
+  {
+    "Contaminant": "Hexachlorobutadiene",
+    "SoilType": "Fine",
+    "GuidelineValue": "0.5",
+    "Pathways": [
+      "Overall Guideline"
+    ]
+  },
+  {
+    "Contaminant": "Hexachlorobutadiene",
+    "SoilType": "Coarse",
+    "GuidelineValue": "0.95",
+    "Pathways": [
+      "Overall Guideline"
+    ]
+  },
+  {
+    "Contaminant": "Hexachlorobutadiene",
+    "SoilType": "Fine",
+    "GuidelineValue": "0.026",
+    "Pathways": [
+      "Protection of Freshwater Aquatic Life"
+    ]
+  },
+  {
+    "Contaminant": "Hexachlorobutadiene",
+    "SoilType": "Coarse",
+    "GuidelineValue": "0.031",
+    "Pathways": [
+      "Protection of Freshwater Aquatic Life"
+    ]
+  },
+  {
+    "Contaminant": "Methanol",
+    "SoilType": "Fine",
+    "GuidelineValue": "37.0",
+    "Pathways": [
+      "Overall Guideline"
+    ]
+  },
+  {
+    "Contaminant": "Methanol",
+    "SoilType": "Coarse",
+    "GuidelineValue": "42.0",
+    "Pathways": [
+      "Overall Guideline"
+    ]
+  },
+  {
+    "Contaminant": "Methanol",
+    "SoilType": "Fine",
+    "GuidelineValue": "37",
+    "Pathways": [
+      "Protection of Domestic Use Aquifer"
+    ]
+  },
+  {
+    "Contaminant": "Methanol",
+    "SoilType": "Coarse",
+    "GuidelineValue": "42",
+    "Pathways": [
+      "Protection of Domestic Use Aquifer"
+    ]
+  },
+  {
+    "Contaminant": "Methanol",
+    "SoilType": "Fine",
+    "GuidelineValue": "1200",
+    "Pathways": [
+      "Protection of Freshwater Aquatic Life"
+    ]
+  },
+  {
+    "Contaminant": "Methanol",
+    "SoilType": "Coarse",
+    "GuidelineValue": "1200",
+    "Pathways": [
+      "Protection of Freshwater Aquatic Life"
+    ]
+  },
+  {
+    "Contaminant": "Methanol",
+    "SoilType": "Fine",
+    "GuidelineValue": "11",
+    "Pathways": [
+      "Protection of Wildlife Water"
+    ]
+  },
+  {
+    "Contaminant": "Methanol",
+    "SoilType": "Fine",
+    "GuidelineValue": "750.0",
+    "Pathways": [
+      "Management Limit"
+    ]
+  },
+  {
+    "Contaminant": "Methanol",
+    "SoilType": "Coarse",
+    "GuidelineValue": "750.0",
+    "Pathways": [
+      "Management Limit"
+    ]
+  },
+  {
+    "Contaminant": "Methylmethacrylate",
+    "SoilType": "Fine",
+    "GuidelineValue": "36.0",
+    "Pathways": [
+      "Overall Guideline"
+    ]
+  },
+  {
+    "Contaminant": "Methylmethacrylate",
+    "SoilType": "Coarse",
+    "GuidelineValue": "49.0",
+    "Pathways": [
+      "Overall Guideline"
+    ]
+  },
+  {
+    "Contaminant": "Monoethanolamine",
+    "SoilType": "Fine",
+    "GuidelineValue": "20.0",
+    "Pathways": [
+      "Overall Guideline"
+    ]
+  },
+  {
+    "Contaminant": "Monoethanolamine",
+    "SoilType": "Coarse",
+    "GuidelineValue": "40.0",
+    "Pathways": [
+      "Overall Guideline"
+    ]
+  },
+  {
+    "Contaminant": "Monoethanolamine",
+    "SoilType": "Fine",
+    "GuidelineValue": "1500",
+    "Pathways": [
+      "Protection of Domestic Use Aquifer"
+    ]
+  },
+  {
+    "Contaminant": "Monoethanolamine",
+    "SoilType": "Coarse",
+    "GuidelineValue": "1500",
+    "Pathways": [
+      "Protection of Domestic Use Aquifer"
+    ]
+  },
+  {
+    "Contaminant": "Monoethanolamine",
+    "SoilType": "Fine",
+    "GuidelineValue": "300000",
+    "Pathways": [
+      "Protection of Freshwater Aquatic Life"
+    ]
+  },
+  {
+    "Contaminant": "Monoethanolamine",
+    "SoilType": "Coarse",
+    "GuidelineValue": "10",
+    "Pathways": [
+      "Protection of Freshwater Aquatic Life"
+    ]
+  },
+  {
+    "Contaminant": "MTBE",
+    "SoilType": "Fine",
+    "GuidelineValue": "0.046",
+    "Pathways": [
+      "Overall Guideline"
+    ]
+  },
+  {
+    "Contaminant": "MTBE",
+    "SoilType": "Coarse",
+    "GuidelineValue": "0.062",
+    "Pathways": [
+      "Overall Guideline"
+    ]
+  },
+  {
+    "Contaminant": "MTBE",
+    "SoilType": "Fine",
+    "GuidelineValue": "0.046",
+    "Pathways": [
+      "Protection of Domestic Use Aquifer"
+    ]
+  },
+  {
+    "Contaminant": "MTBE",
+    "SoilType": "Coarse",
+    "GuidelineValue": "0.062",
+    "Pathways": [
+      "Protection of Domestic Use Aquifer"
+    ]
+  },
+  {
+    "Contaminant": "MTBE",
+    "SoilType": "Fine",
+    "GuidelineValue": "7.1",
+    "Pathways": [
+      "Protection of Freshwater Aquatic Life"
+    ]
+  },
+  {
+    "Contaminant": "MTBE",
+    "SoilType": "Coarse",
+    "GuidelineValue": "6.1",
+    "Pathways": [
+      "Protection of Freshwater Aquatic Life"
+    ]
+  },
+  {
+    "Contaminant": "Nonylphenol + ethoxylates",
+    "SoilType": "Fine",
+    "GuidelineValue": "5.7",
+    "Pathways": [
+      "Overall Guideline"
+    ]
+  },
+  {
+    "Contaminant": "Nonylphenol + ethoxylates",
+    "SoilType": "Coarse",
+    "GuidelineValue": "5.7",
+    "Pathways": [
+      "Overall Guideline"
+    ]
+  },
+  {
+    "Contaminant": "Nonylphenol + ethoxylates",
+    "SoilType": "Fine",
+    "GuidelineValue": "2000.0",
+    "Pathways": [
+      "Management Limit"
+    ]
+  },
+  {
+    "Contaminant": "Perfluorooctane sulfonate (PFOS)",
+    "SoilType": "Fine",
+    "GuidelineValue": "0.07",
+    "Pathways": [
+      "Overall Guideline"
+    ]
+  },
+  {
+    "Contaminant": "Perfluorooctane sulfonate (PFOS)",
+    "SoilType": "Coarse",
+    "GuidelineValue": "0.14",
+    "Pathways": [
+      "Overall Guideline"
+    ]
+  },
+  {
+    "Contaminant": "Perfluorooctane sulfonate (PFOS)",
+    "SoilType": "Fine",
+    "GuidelineValue": "10",
+    "Pathways": [
+      "Protection of Domestic Use Aquifer"
+    ]
+  },
+  {
+    "Contaminant": "Perfluorooctane sulfonate (PFOS)",
+    "SoilType": "Coarse",
+    "GuidelineValue": "10",
+    "Pathways": [
+      "Protection of Domestic Use Aquifer"
+    ]
+  },
+  {
+    "Contaminant": "Perfluorooctane sulfonate (PFOS)",
+    "SoilType": "Fine",
+    "GuidelineValue": "0.19",
+    "Pathways": [
+      "Protection of Freshwater Aquatic Life"
+    ]
+  },
+  {
+    "Contaminant": "Perfluorooctane sulfonate (PFOS)",
+    "SoilType": "Coarse",
+    "GuidelineValue": "0.23",
+    "Pathways": [
+      "Protection of Freshwater Aquatic Life"
+    ]
+  },
+  {
+    "Contaminant": "Perfluorooctane sulfonate (PFOS)",
+    "SoilType": "Fine",
+    "GuidelineValue": "1.5",
+    "Pathways": [
+      "Protection of Wildlife Water"
+    ]
+  },
+  {
+    "Contaminant": "Perfluorooctane sulfonate (PFOS)",
+    "SoilType": "Coarse",
+    "GuidelineValue": "1.8",
+    "Pathways": [
+      "Protection of Wildlife Water"
+    ]
+  },
+  {
+    "Contaminant": "Phenol",
+    "SoilType": "Fine",
+    "GuidelineValue": "0.0028",
+    "Pathways": [
+      "Overall Guideline"
+    ]
+  },
+  {
+    "Contaminant": "Phenol",
+    "SoilType": "Coarse",
+    "GuidelineValue": "0.0024",
+    "Pathways": [
+      "Overall Guideline"
+    ]
+  },
+  {
+    "Contaminant": "Phenol",
+    "SoilType": "Fine",
+    "GuidelineValue": "1.6",
+    "Pathways": [
+      "Protection of Domestic Use Aquifer"
+    ]
+  },
+  {
+    "Contaminant": "Phenol",
+    "SoilType": "Coarse",
+    "GuidelineValue": "2.3",
+    "Pathways": [
+      "Protection of Domestic Use Aquifer"
+    ]
+  },
+  {
+    "Contaminant": "Phenol",
+    "SoilType": "Fine",
+    "GuidelineValue": "20",
+    "Pathways": [
+      "Protection of Freshwater Aquatic Life"
+    ]
+  },
+  {
+    "Contaminant": "Phenol",
+    "SoilType": "Coarse",
+    "GuidelineValue": "20",
+    "Pathways": [
+      "Protection of Freshwater Aquatic Life"
+    ]
+  },
+  {
+    "Contaminant": "Sulfolane",
+    "SoilType": "Fine",
+    "GuidelineValue": "0.046",
+    "Pathways": [
+      "Overall Guideline"
+    ]
+  },
+  {
+    "Contaminant": "Sulfolane",
+    "SoilType": "Coarse",
+    "GuidelineValue": "0.21",
+    "Pathways": [
+      "Overall Guideline"
+    ]
+  },
+  {
+    "Contaminant": "Sulfolane",
+    "SoilType": "Fine",
+    "GuidelineValue": "0.18",
+    "Pathways": [
+      "Protection of Domestic Use Aquifer"
+    ]
+  },
+  {
+    "Contaminant": "Sulfolane",
+    "SoilType": "Coarse",
+    "GuidelineValue": "0.21",
+    "Pathways": [
+      "Protection of Domestic Use Aquifer"
+    ]
+  },
+  {
+    "Contaminant": "Sulfolane",
+    "SoilType": "Fine",
+    "GuidelineValue": "24",
+    "Pathways": [
+      "Protection of Freshwater Aquatic Life"
+    ]
+  },
+  {
+    "Contaminant": "Sulfolane",
+    "SoilType": "Coarse",
+    "GuidelineValue": "18",
+    "Pathways": [
+      "Protection of Freshwater Aquatic Life"
+    ]
+  },
+  {
+    "Contaminant": "Triethylene glycol",
+    "SoilType": "Fine",
+    "GuidelineValue": "100.0",
+    "Pathways": [
+      "Overall Guideline"
+    ]
+  },
+  {
+    "Contaminant": "Triethylene glycol",
+    "SoilType": "Coarse",
+    "GuidelineValue": "150.0",
+    "Pathways": [
+      "Overall Guideline"
+    ]
+  },
+  {
+    "Contaminant": "Triethylene glycol",
+    "SoilType": "Fine",
+    "GuidelineValue": "100",
+    "Pathways": [
+      "Protection of Domestic Use Aquifer"
+    ]
+  },
+  {
+    "Contaminant": "Triethylene glycol",
+    "SoilType": "Coarse",
+    "GuidelineValue": "150",
+    "Pathways": [
+      "Protection of Domestic Use Aquifer"
+    ]
+  },
+  {
+    "Contaminant": "Triethylene glycol",
+    "SoilType": "Fine",
+    "GuidelineValue": "5000",
+    "Pathways": [
+      "Protection of Freshwater Aquatic Life"
+    ]
+  },
+  {
+    "Contaminant": "Triethylene glycol",
+    "SoilType": "Coarse",
+    "GuidelineValue": "5000",
+    "Pathways": [
+      "Protection of Freshwater Aquatic Life"
+    ]
+  },
+  {
+    "Contaminant": "Triethylene glycol",
+    "SoilType": "Fine",
+    "GuidelineValue": "200.0",
+    "Pathways": [
+      "Management Limit"
+    ]
+  },
+  {
+    "Contaminant": "Zinc",
+    "SoilType": "Fine",
+    "GuidelineValue": "250.0",
+    "Pathways": [
+      "Overall Guideline"
+    ]
+  },
+  {
+    "Contaminant": "Zinc",
+    "SoilType": "Coarse",
+    "GuidelineValue": "250.0",
+    "Pathways": [
+      "Overall Guideline"
+    ]
+  },
+  {
+    "Contaminant": "Zinc",
+    "SoilType": "Fine",
+    "GuidelineValue": "250.0",
+    "Pathways": [
+      "Direct Soil Contact"
+    ]
+  },
+  {
+    "Contaminant": "Zinc",
+    "SoilType": "Coarse",
+    "GuidelineValue": "250.0",
+    "Pathways": [
+      "Direct Soil Contact"
+    ]
+  },
+  {
+    "Contaminant": "Zinc",
+    "SoilType": "Check",
+    "GuidelineValue": "280.0",
+    "Pathways": [
+      "Nutrient/Energy Cycling"
+    ]
+  },
+  {
+    "Contaminant": "Zinc",
+    "SoilType": "Ingestion",
+    "GuidelineValue": "980.0",
+    "Pathways": [
+      "Livestock Soil and Food"
+    ]
+  },
+  {
+    "Contaminant": "Benzene",
+    "SoilType": "Fine",
+    "GuidelineValue": "0.046",
+    "Pathways": [
+      "Overall Guideline"
+    ]
+  },
+  {
+    "Contaminant": "Benzene",
+    "SoilType": "Coarse",
+    "GuidelineValue": "0.078",
+    "Pathways": [
+      "Overall Guideline"
+    ]
+  },
+  {
+    "Contaminant": "Benzene",
+    "SoilType": "Fine",
+    "GuidelineValue": "0.046",
+    "Pathways": [
+      "Protection of Domestic Use Aquifer"
+    ]
+  },
+  {
+    "Contaminant": "Benzene",
+    "SoilType": "Coarse",
+    "GuidelineValue": "0.078",
+    "Pathways": [
+      "Protection of Domestic Use Aquifer"
+    ]
+  },
+  {
+    "Contaminant": "Benzene",
+    "SoilType": "Fine",
+    "GuidelineValue": "60.0",
+    "Pathways": [
+      "Direct Soil Contact"
+    ]
+  },
+  {
+    "Contaminant": "Benzene",
+    "SoilType": "Coarse",
+    "GuidelineValue": "31.0",
+    "Pathways": [
+      "Direct Soil Contact"
+    ]
+  },
+  {
+    "Contaminant": "Benzene",
+    "SoilType": "Ingestion",
+    "GuidelineValue": "44.0",
+    "Pathways": [
+      "Livestock Soil and Food"
+    ]
+  },
+  {
+    "Contaminant": "Benzene",
+    "SoilType": "Ingestion",
+    "GuidelineValue": "18.0",
+    "Pathways": [
+      "Wildlife Soil and Food"
+    ]
+  },
+  {
+    "Contaminant": "Benzene",
+    "SoilType": "Fine",
+    "GuidelineValue": "7.9",
+    "Pathways": [
+      "Protection of Freshwater Aquatic Life"
+    ]
+  },
+  {
+    "Contaminant": "Benzene",
+    "SoilType": "Coarse",
+    "GuidelineValue": "0.17",
+    "Pathways": [
+      "Protection of Freshwater Aquatic Life"
+    ]
+  },
+  {
+    "Contaminant": "Benzene",
+    "SoilType": "Fine",
+    "GuidelineValue": "15",
+    "Pathways": [
+      "Protection of Wildlife Water"
+    ]
+  },
+  {
+    "Contaminant": "Benzene",
+    "SoilType": "Coarse",
+    "GuidelineValue": "0.33",
+    "Pathways": [
+      "Protection of Wildlife Water"
+    ]
+  },
+  {
+    "Contaminant": "Toluene",
+    "SoilType": "Fine",
+    "GuidelineValue": "0.52",
+    "Pathways": [
+      "Overall Guideline"
+    ]
+  },
+  {
+    "Contaminant": "Toluene",
+    "SoilType": "Coarse",
+    "GuidelineValue": "0.95",
+    "Pathways": [
+      "Overall Guideline"
+    ]
+  },
+  {
+    "Contaminant": "Toluene",
+    "SoilType": "Fine",
+    "GuidelineValue": "0.52",
+    "Pathways": [
+      "Protection of Domestic Use Aquifer"
+    ]
+  },
+  {
+    "Contaminant": "Toluene",
+    "SoilType": "Coarse",
+    "GuidelineValue": "0.95",
+    "Pathways": [
+      "Protection of Domestic Use Aquifer"
+    ]
+  },
+  {
+    "Contaminant": "Toluene",
+    "SoilType": "Fine",
+    "GuidelineValue": "110.0",
+    "Pathways": [
+      "Direct Soil Contact"
+    ]
+  },
+  {
+    "Contaminant": "Toluene",
+    "SoilType": "Coarse",
+    "GuidelineValue": "75.0",
+    "Pathways": [
+      "Direct Soil Contact"
+    ]
+  },
+  {
+    "Contaminant": "Toluene",
+    "SoilType": "Ingestion",
+    "GuidelineValue": "2500.0",
+    "Pathways": [
+      "Livestock Soil and Food"
+    ]
+  },
+  {
+    "Contaminant": "Toluene",
+    "SoilType": "Ingestion",
+    "GuidelineValue": "980.0",
+    "Pathways": [
+      "Wildlife Soil and Food"
+    ]
+  },
+  {
+    "Contaminant": "Toluene",
+    "SoilType": "Fine",
+    "GuidelineValue": "63000",
+    "Pathways": [
+      "Protection of Freshwater Aquatic Life"
+    ]
+  },
+  {
+    "Contaminant": "Toluene",
+    "SoilType": "Coarse",
+    "GuidelineValue": "0.12",
+    "Pathways": [
+      "Protection of Freshwater Aquatic Life"
+    ]
+  },
+  {
+    "Contaminant": "Toluene",
+    "SoilType": "Fine",
+    "GuidelineValue": "NGR",
+    "Pathways": [
+      "Protection of Wildlife Water"
+    ]
+  },
+  {
+    "Contaminant": "Toluene",
+    "SoilType": "Coarse",
+    "GuidelineValue": "1000",
+    "Pathways": [
+      "Protection of Wildlife Water"
+    ]
+  },
+  {
+    "Contaminant": "Ethylbenzene",
+    "SoilType": "Fine",
+    "GuidelineValue": "0.073",
+    "Pathways": [
+      "Overall Guideline"
+    ]
+  },
+  {
+    "Contaminant": "Ethylbenzene",
+    "SoilType": "Coarse",
+    "GuidelineValue": "0.14",
+    "Pathways": [
+      "Overall Guideline"
+    ]
+  },
+  {
+    "Contaminant": "Ethylbenzene",
+    "SoilType": "Fine",
+    "GuidelineValue": "0.073",
+    "Pathways": [
+      "Protection of Domestic Use Aquifer"
+    ]
+  },
+  {
+    "Contaminant": "Ethylbenzene",
+    "SoilType": "Coarse",
+    "GuidelineValue": "0.14",
+    "Pathways": [
+      "Protection of Domestic Use Aquifer"
+    ]
+  },
+  {
+    "Contaminant": "Ethylbenzene",
+    "SoilType": "Fine",
+    "GuidelineValue": "120.0",
+    "Pathways": [
+      "Direct Soil Contact"
+    ]
+  },
+  {
+    "Contaminant": "Ethylbenzene",
+    "SoilType": "Coarse",
+    "GuidelineValue": "55.0",
+    "Pathways": [
+      "Direct Soil Contact"
+    ]
+  },
+  {
+    "Contaminant": "Ethylbenzene",
+    "SoilType": "Ingestion",
+    "GuidelineValue": "1600.0",
+    "Pathways": [
+      "Livestock Soil and Food"
+    ]
+  },
+  {
+    "Contaminant": "Ethylbenzene",
+    "SoilType": "Ingestion",
+    "GuidelineValue": "640.0",
+    "Pathways": [
+      "Wildlife Soil and Food"
+    ]
+  },
+  {
+    "Contaminant": "Ethylbenzene",
+    "SoilType": "Fine",
+    "GuidelineValue": "NGR",
+    "Pathways": [
+      "Protection of Freshwater Aquatic Life"
+    ]
+  },
+  {
+    "Contaminant": "Ethylbenzene",
+    "SoilType": "Coarse",
+    "GuidelineValue": "540",
+    "Pathways": [
+      "Protection of Freshwater Aquatic Life"
+    ]
+  },
+  {
+    "Contaminant": "Ethylbenzene",
+    "SoilType": "Fine",
+    "GuidelineValue": "NGR",
+    "Pathways": [
+      "Protection of Wildlife Water"
+    ]
+  },
+  {
+    "Contaminant": "Ethylbenzene",
+    "SoilType": "Coarse",
+    "GuidelineValue": "17000",
+    "Pathways": [
+      "Protection of Wildlife Water"
+    ]
+  },
+  {
+    "Contaminant": "Xylenes",
+    "SoilType": "Fine",
+    "GuidelineValue": "0.99",
+    "Pathways": [
+      "Overall Guideline"
+    ]
+  },
+  {
+    "Contaminant": "Xylenes",
+    "SoilType": "Coarse",
+    "GuidelineValue": "1.9",
+    "Pathways": [
+      "Overall Guideline"
+    ]
+  },
+  {
+    "Contaminant": "Xylenes",
+    "SoilType": "Fine",
+    "GuidelineValue": "0.99",
+    "Pathways": [
+      "Protection of Domestic Use Aquifer"
+    ]
+  },
+  {
+    "Contaminant": "Xylenes",
+    "SoilType": "Coarse",
+    "GuidelineValue": "1.9",
+    "Pathways": [
+      "Protection of Domestic Use Aquifer"
+    ]
+  },
+  {
+    "Contaminant": "Xylenes",
+    "SoilType": "Fine",
+    "GuidelineValue": "65.0",
+    "Pathways": [
+      "Direct Soil Contact"
+    ]
+  },
+  {
+    "Contaminant": "Xylenes",
+    "SoilType": "Coarse",
+    "GuidelineValue": "95.0",
+    "Pathways": [
+      "Direct Soil Contact"
+    ]
+  },
+  {
+    "Contaminant": "Xylenes",
+    "SoilType": "Ingestion",
+    "GuidelineValue": "6600.0",
+    "Pathways": [
+      "Livestock Soil and Food"
+    ]
+  },
+  {
+    "Contaminant": "Xylenes",
+    "SoilType": "Ingestion",
+    "GuidelineValue": "2600.0",
+    "Pathways": [
+      "Wildlife Soil and Food"
+    ]
+  },
+  {
+    "Contaminant": "Xylenes",
+    "SoilType": "Fine",
+    "GuidelineValue": "NGR",
+    "Pathways": [
+      "Protection of Freshwater Aquatic Life"
+    ]
+  },
+  {
+    "Contaminant": "Xylenes",
+    "SoilType": "Coarse",
+    "GuidelineValue": "41",
+    "Pathways": [
+      "Protection of Freshwater Aquatic Life"
+    ]
+  },
+  {
+    "Contaminant": "Xylenes",
+    "SoilType": "Fine",
+    "GuidelineValue": "NGR",
+    "Pathways": [
+      "Protection of Wildlife Water"
+    ]
+  },
+  {
+    "Contaminant": "Xylenes",
+    "SoilType": "Coarse",
+    "GuidelineValue": "16000",
+    "Pathways": [
+      "Protection of Wildlife Water"
+    ]
+  },
+  {
+    "Contaminant": "Styrene",
+    "SoilType": "Fine",
+    "GuidelineValue": "0.68",
+    "Pathways": [
+      "Overall Guideline"
+    ]
+  },
+  {
+    "Contaminant": "Styrene",
+    "SoilType": "Coarse",
+    "GuidelineValue": "1.1",
+    "Pathways": [
+      "Overall Guideline"
+    ]
+  },
+  {
+    "Contaminant": "Styrene",
+    "SoilType": "Fine",
+    "GuidelineValue": "0.68",
+    "Pathways": [
+      "Protection of Domestic Use Aquifer"
+    ]
+  },
+  {
+    "Contaminant": "Styrene",
+    "SoilType": "Coarse",
+    "GuidelineValue": "1.1",
+    "Pathways": [
+      "Protection of Domestic Use Aquifer"
+    ]
+  },
+  {
+    "Contaminant": "Styrene",
+    "SoilType": "Fine",
+    "GuidelineValue": "110.0",
+    "Pathways": [
+      "Direct Soil Contact"
+    ]
+  },
+  {
+    "Contaminant": "Styrene",
+    "SoilType": "Coarse",
+    "GuidelineValue": "210.0",
+    "Pathways": [
+      "Direct Soil Contact"
+    ]
+  },
+  {
+    "Contaminant": "Styrene",
+    "SoilType": "Fine",
+    "GuidelineValue": "0.68",
+    "Pathways": [
+      "Protection of Freshwater Aquatic Life"
+    ]
+  },
+  {
+    "Contaminant": "Styrene",
+    "SoilType": "Coarse",
+    "GuidelineValue": "0.8",
+    "Pathways": [
+      "Protection of Freshwater Aquatic Life"
+    ]
+  },
+  {
+    "Contaminant": "F1",
+    "SoilType": "Fine",
+    "GuidelineValue": "210.0",
+    "Pathways": [
+      "Overall Guideline"
+    ]
+  },
+  {
+    "Contaminant": "F1",
+    "SoilType": "Coarse",
+    "GuidelineValue": "210.0",
+    "Pathways": [
+      "Overall Guideline"
+    ]
+  },
+  {
+    "Contaminant": "F1",
+    "SoilType": "Fine",
+    "GuidelineValue": "2100",
+    "Pathways": [
+      "Protection of Domestic Use Aquifer"
+    ]
+  },
+  {
+    "Contaminant": "F1",
+    "SoilType": "Coarse",
+    "GuidelineValue": "2200",
+    "Pathways": [
+      "Protection of Domestic Use Aquifer"
+    ]
+  },
+  {
+    "Contaminant": "F1",
+    "SoilType": "Fine",
+    "GuidelineValue": "210.0",
+    "Pathways": [
+      "Direct Soil Contact"
+    ]
+  },
+  {
+    "Contaminant": "F1",
+    "SoilType": "Coarse",
+    "GuidelineValue": "210.0",
+    "Pathways": [
+      "Direct Soil Contact"
+    ]
+  },
+  {
+    "Contaminant": "F1",
+    "SoilType": "Ingestion",
+    "GuidelineValue": "27000.0",
+    "Pathways": [
+      "Livestock Soil and Food"
+    ]
+  },
+  {
+    "Contaminant": "F1",
+    "SoilType": "Ingestion",
+    "GuidelineValue": "11000.0",
+    "Pathways": [
+      "Wildlife Soil and Food"
+    ]
+  },
+  {
+    "Contaminant": "F1",
+    "SoilType": "Fine",
+    "GuidelineValue": "30000",
+    "Pathways": [
+      "Protection of Freshwater Aquatic Life"
+    ]
+  },
+  {
+    "Contaminant": "F1",
+    "SoilType": "Coarse",
+    "GuidelineValue": "1300",
+    "Pathways": [
+      "Protection of Freshwater Aquatic Life"
+    ]
+  },
+  {
+    "Contaminant": "F1",
+    "SoilType": "Fine",
+    "GuidelineValue": "30000",
+    "Pathways": [
+      "Protection of Wildlife Water"
+    ]
+  },
+  {
+    "Contaminant": "F1",
+    "SoilType": "Coarse",
+    "GuidelineValue": "30000",
+    "Pathways": [
+      "Protection of Wildlife Water"
+    ]
+  },
+  {
+    "Contaminant": "F1",
+    "SoilType": "Fine",
+    "GuidelineValue": "800.0",
+    "Pathways": [
+      "Management Limit"
+    ]
+  },
+  {
+    "Contaminant": "F1",
+    "SoilType": "Coarse",
+    "GuidelineValue": "700.0",
+    "Pathways": [
+      "Management Limit"
+    ]
+  },
+  {
+    "Contaminant": "F2",
+    "SoilType": "Fine",
+    "GuidelineValue": "150.0",
+    "Pathways": [
+      "Overall Guideline"
+    ]
+  },
+  {
+    "Contaminant": "F2",
+    "SoilType": "Coarse",
+    "GuidelineValue": "150.0",
+    "Pathways": [
+      "Overall Guideline"
+    ]
+  },
+  {
+    "Contaminant": "F2",
+    "SoilType": "Fine",
+    "GuidelineValue": "1500",
+    "Pathways": [
+      "Protection of Domestic Use Aquifer"
+    ]
+  },
+  {
+    "Contaminant": "F2",
+    "SoilType": "Coarse",
+    "GuidelineValue": "2900",
+    "Pathways": [
+      "Protection of Domestic Use Aquifer"
+    ]
+  },
+  {
+    "Contaminant": "F2",
+    "SoilType": "Fine",
+    "GuidelineValue": "150.0",
+    "Pathways": [
+      "Direct Soil Contact"
+    ]
+  },
+  {
+    "Contaminant": "F2",
+    "SoilType": "Coarse",
+    "GuidelineValue": "150.0",
+    "Pathways": [
+      "Direct Soil Contact"
+    ]
+  },
+  {
+    "Contaminant": "F2",
+    "SoilType": "Ingestion",
+    "GuidelineValue": "25000.0",
+    "Pathways": [
+      "Livestock Soil and Food"
+    ]
+  },
+  {
+    "Contaminant": "F2",
+    "SoilType": "Ingestion",
+    "GuidelineValue": "9800.0",
+    "Pathways": [
+      "Wildlife Soil and Food"
+    ]
+  },
+  {
+    "Contaminant": "F2",
+    "SoilType": "Fine",
+    "GuidelineValue": "30000",
+    "Pathways": [
+      "Protection of Freshwater Aquatic Life"
+    ]
+  },
+  {
+    "Contaminant": "F2",
+    "SoilType": "Coarse",
+    "GuidelineValue": "520",
+    "Pathways": [
+      "Protection of Freshwater Aquatic Life"
+    ]
+  },
+  {
+    "Contaminant": "F2",
+    "SoilType": "Fine",
+    "GuidelineValue": "30000",
+    "Pathways": [
+      "Protection of Wildlife Water"
+    ]
+  },
+  {
+    "Contaminant": "F2",
+    "SoilType": "Coarse",
+    "GuidelineValue": "30000",
+    "Pathways": [
+      "Protection of Wildlife Water"
+    ]
+  },
+  {
+    "Contaminant": "F2",
+    "SoilType": "Fine",
+    "GuidelineValue": "1000.0",
+    "Pathways": [
+      "Management Limit"
+    ]
+  },
+  {
+    "Contaminant": "F2",
+    "SoilType": "Coarse",
+    "GuidelineValue": "1000.0",
+    "Pathways": [
+      "Management Limit"
+    ]
+  },
+  {
+    "Contaminant": "F3",
+    "SoilType": "Fine",
+    "GuidelineValue": "1300.0",
+    "Pathways": [
+      "Overall Guideline"
+    ]
+  },
+  {
+    "Contaminant": "F3",
+    "SoilType": "Coarse",
+    "GuidelineValue": "300.0",
+    "Pathways": [
+      "Overall Guideline"
+    ]
+  },
+  {
+    "Contaminant": "F3",
+    "SoilType": "Fine",
+    "GuidelineValue": "1300.0",
+    "Pathways": [
+      "Direct Soil Contact"
+    ]
+  },
+  {
+    "Contaminant": "F3",
+    "SoilType": "Coarse",
+    "GuidelineValue": "300.0",
+    "Pathways": [
+      "Direct Soil Contact"
+    ]
+  },
+  {
+    "Contaminant": "F3",
+    "SoilType": "Ingestion",
+    "GuidelineValue": "30000.0",
+    "Pathways": [
+      "Livestock Soil and Food"
+    ]
+  },
+  {
+    "Contaminant": "F3",
+    "SoilType": "Ingestion",
+    "GuidelineValue": "16000.0",
+    "Pathways": [
+      "Wildlife Soil and Food"
+    ]
+  },
+  {
+    "Contaminant": "F3",
+    "SoilType": "Fine",
+    "GuidelineValue": "3500.0",
+    "Pathways": [
+      "Management Limit"
+    ]
+  },
+  {
+    "Contaminant": "F3",
+    "SoilType": "Coarse",
+    "GuidelineValue": "2500.0",
+    "Pathways": [
+      "Management Limit"
+    ]
+  },
+  {
+    "Contaminant": "F4",
+    "SoilType": "Fine",
+    "GuidelineValue": "5600.0",
+    "Pathways": [
+      "Overall Guideline"
+    ]
+  },
+  {
+    "Contaminant": "F4",
+    "SoilType": "Coarse",
+    "GuidelineValue": "2800.0",
+    "Pathways": [
+      "Overall Guideline"
+    ]
+  },
+  {
+    "Contaminant": "F4",
+    "SoilType": "Fine",
+    "GuidelineValue": "5600.0",
+    "Pathways": [
+      "Direct Soil Contact"
+    ]
+  },
+  {
+    "Contaminant": "F4",
+    "SoilType": "Coarse",
+    "GuidelineValue": "2800.0",
+    "Pathways": [
+      "Direct Soil Contact"
+    ]
+  },
+  {
+    "Contaminant": "F4",
+    "SoilType": "Ingestion",
+    "GuidelineValue": "21000.0",
+    "Pathways": [
+      "Livestock Soil and Food"
+    ]
+  },
+  {
+    "Contaminant": "F4",
+    "SoilType": "Ingestion",
+    "GuidelineValue": "8400.0",
+    "Pathways": [
+      "Wildlife Soil and Food"
+    ]
+  },
+  {
+    "Contaminant": "F4",
+    "SoilType": "Fine",
+    "GuidelineValue": "10000.0",
+    "Pathways": [
+      "Management Limit"
+    ]
+  },
+  {
+    "Contaminant": "F4",
+    "SoilType": "Coarse",
+    "GuidelineValue": "10000.0",
+    "Pathways": [
+      "Management Limit"
+    ]
+  },
+  {
+    "Contaminant": "Acenaphthene",
+    "SoilType": "Fine",
+    "GuidelineValue": "0.33",
+    "Pathways": [
+      "Overall Guideline"
+    ]
+  },
+  {
+    "Contaminant": "Acenaphthene",
+    "SoilType": "Coarse",
+    "GuidelineValue": "0.38",
+    "Pathways": [
+      "Overall Guideline"
+    ]
+  },
+  {
+    "Contaminant": "Acenaphthene",
+    "SoilType": "Fine",
+    "GuidelineValue": "NGR",
+    "Pathways": [
+      "Protection of Domestic Use Aquifer"
+    ]
+  },
+  {
+    "Contaminant": "Acenaphthene",
+    "SoilType": "Coarse",
+    "GuidelineValue": "NGR",
+    "Pathways": [
+      "Protection of Domestic Use Aquifer"
+    ]
+  },
+  {
+    "Contaminant": "Acenaphthene",
+    "SoilType": "Ingestion",
+    "GuidelineValue": "22.0",
+    "Pathways": [
+      "Livestock Soil and Food"
+    ]
+  },
+  {
+    "Contaminant": "Acenaphthene",
+    "SoilType": "Fine",
+    "GuidelineValue": "0.33",
+    "Pathways": [
+      "Protection of Freshwater Aquatic Life"
+    ]
+  },
+  {
+    "Contaminant": "Acenaphthene",
+    "SoilType": "Coarse",
+    "GuidelineValue": "0.38",
+    "Pathways": [
+      "Protection of Freshwater Aquatic Life"
+    ]
+  },
+  {
+    "Contaminant": "Acenaphthene",
+    "SoilType": "Fine",
+    "GuidelineValue": "NGR",
+    "Pathways": [
+      "Protection of Wildlife Water"
+    ]
+  },
+  {
+    "Contaminant": "Acenaphthene",
+    "SoilType": "Coarse",
+    "GuidelineValue": "NGR",
+    "Pathways": [
+      "Protection of Wildlife Water"
+    ]
+  },
+  {
+    "Contaminant": "Anthracene",
+    "SoilType": "Fine",
+    "GuidelineValue": "1.3",
+    "Pathways": [
+      "Overall Guideline"
+    ]
+  },
+  {
+    "Contaminant": "Anthracene",
+    "SoilType": "Coarse",
+    "GuidelineValue": "0.056",
+    "Pathways": [
+      "Overall Guideline"
+    ]
+  },
+  {
+    "Contaminant": "Anthracene",
+    "SoilType": "Fine",
+    "GuidelineValue": "NGR",
+    "Pathways": [
+      "Protection of Domestic Use Aquifer"
+    ]
+  },
+  {
+    "Contaminant": "Anthracene",
+    "SoilType": "Coarse",
+    "GuidelineValue": "NGR",
+    "Pathways": [
+      "Protection of Domestic Use Aquifer"
+    ]
+  },
+  {
+    "Contaminant": "Anthracene",
+    "SoilType": "Fine",
+    "GuidelineValue": "2.5",
+    "Pathways": [
+      "Direct Soil Contact"
+    ]
+  },
+  {
+    "Contaminant": "Anthracene",
+    "SoilType": "Coarse",
+    "GuidelineValue": "2.5",
+    "Pathways": [
+      "Direct Soil Contact"
+    ]
+  },
+  {
+    "Contaminant": "Anthracene",
+    "SoilType": "Ingestion",
+    "GuidelineValue": "62.0",
+    "Pathways": [
+      "Livestock Soil and Food"
+    ]
+  },
+  {
+    "Contaminant": "Anthracene",
+    "SoilType": "Fine",
+    "GuidelineValue": "1.33",
+    "Pathways": [
+      "Protection of Freshwater Aquatic Life"
+    ]
+  },
+  {
+    "Contaminant": "Anthracene",
+    "SoilType": "Coarse",
+    "GuidelineValue": "0.0056",
+    "Pathways": [
+      "Protection of Freshwater Aquatic Life"
+    ]
+  },
+  {
+    "Contaminant": "Anthracene",
+    "SoilType": "Fine",
+    "GuidelineValue": "NGR",
+    "Pathways": [
+      "Protection of Wildlife Water"
+    ]
+  },
+  {
+    "Contaminant": "Anthracene",
+    "SoilType": "Coarse",
+    "GuidelineValue": "NGR",
+    "Pathways": [
+      "Protection of Wildlife Water"
+    ]
+  },
+  {
+    "Contaminant": "Fluoranthene",
+    "SoilType": "Fine",
+    "GuidelineValue": "15.0",
+    "Pathways": [
+      "Overall Guideline"
+    ]
+  },
+  {
+    "Contaminant": "Fluoranthene",
+    "SoilType": "Coarse",
+    "GuidelineValue": "0.055",
+    "Pathways": [
+      "Overall Guideline"
+    ]
+  },
+  {
+    "Contaminant": "Fluoranthene",
+    "SoilType": "Fine",
+    "GuidelineValue": "NGR",
+    "Pathways": [
+      "Protection of Domestic Use Aquifer"
+    ]
+  },
+  {
+    "Contaminant": "Fluoranthene",
+    "SoilType": "Coarse",
+    "GuidelineValue": "NGR",
+    "Pathways": [
+      "Protection of Domestic Use Aquifer"
+    ]
+  },
+  {
+    "Contaminant": "Fluoranthene",
+    "SoilType": "Fine",
+    "GuidelineValue": "50.0",
+    "Pathways": [
+      "Direct Soil Contact"
+    ]
+  },
+  {
+    "Contaminant": "Fluoranthene",
+    "SoilType": "Coarse",
+    "GuidelineValue": "50.0",
+    "Pathways": [
+      "Direct Soil Contact"
+    ]
+  },
+  {
+    "Contaminant": "Fluoranthene",
+    "SoilType": "Ingestion",
+    "GuidelineValue": "15.0",
+    "Pathways": [
+      "Livestock Soil and Food"
+    ]
+  },
+  {
+    "Contaminant": "Fluoranthene",
+    "SoilType": "Fine",
+    "GuidelineValue": "1.33",
+    "Pathways": [
+      "Protection of Freshwater Aquatic Life"
+    ]
+  },
+  {
+    "Contaminant": "Fluoranthene",
+    "SoilType": "Coarse",
+    "GuidelineValue": "0.055",
+    "Pathways": [
+      "Protection of Freshwater Aquatic Life"
+    ]
+  },
+  {
+    "Contaminant": "Fluoranthene",
+    "SoilType": "Fine",
+    "GuidelineValue": "NGR",
+    "Pathways": [
+      "Protection of Wildlife Water"
+    ]
+  },
+  {
+    "Contaminant": "Fluoranthene",
+    "SoilType": "Coarse",
+    "GuidelineValue": "NGR",
+    "Pathways": [
+      "Protection of Wildlife Water"
+    ]
+  },
+  {
+    "Contaminant": "Fluorene",
+    "SoilType": "Coarse",
+    "GuidelineValue": "0.34",
+    "Pathways": [
+      "Overall Guideline"
+    ]
+  },
+  {
+    "Contaminant": "Fluorene",
+    "SoilType": "Fine",
+    "GuidelineValue": "NGR",
+    "Pathways": [
+      "Protection of Domestic Use Aquifer"
+    ]
+  },
+  {
+    "Contaminant": "Fluorene",
+    "SoilType": "Coarse",
+    "GuidelineValue": "NGR",
+    "Pathways": [
+      "Protection of Domestic Use Aquifer"
+    ]
+  },
+  {
+    "Contaminant": "Fluorene",
+    "SoilType": "Fine",
+    "GuidelineValue": "0.4",
+    "Pathways": [
+      "Protection of Freshwater Aquatic Life"
+    ]
+  },
+  {
+    "Contaminant": "Fluorene",
+    "SoilType": "Coarse",
+    "GuidelineValue": "0.34",
+    "Pathways": [
+      "Protection of Freshwater Aquatic Life"
+    ]
+  },
+  {
+    "Contaminant": "Fluorene",
+    "SoilType": "Fine",
+    "GuidelineValue": "NGR",
+    "Pathways": [
+      "Protection of Wildlife Water"
+    ]
+  },
+  {
+    "Contaminant": "Fluorene",
+    "SoilType": "Coarse",
+    "GuidelineValue": "NGR",
+    "Pathways": [
+      "Protection of Wildlife Water"
+    ]
+  },
+  {
+    "Contaminant": "Naphthalene",
+    "SoilType": "Fine",
+    "GuidelineValue": "0.014",
+    "Pathways": [
+      "Overall Guideline"
+    ]
+  },
+  {
+    "Contaminant": "Naphthalene",
+    "SoilType": "Coarse",
+    "GuidelineValue": "0.017",
+    "Pathways": [
+      "Overall Guideline"
+    ]
+  },
+  {
+    "Contaminant": "Naphthalene",
+    "SoilType": "Fine",
+    "GuidelineValue": "28",
+    "Pathways": [
+      "Protection of Domestic Use Aquifer"
+    ]
+  },
+  {
+    "Contaminant": "Naphthalene",
+    "SoilType": "Coarse",
+    "GuidelineValue": "53",
+    "Pathways": [
+      "Protection of Domestic Use Aquifer"
+    ]
+  },
+  {
+    "Contaminant": "Naphthalene",
+    "SoilType": "Ingestion",
+    "GuidelineValue": "8.8",
+    "Pathways": [
+      "Livestock Soil and Food"
+    ]
+  },
+  {
+    "Contaminant": "Naphthalene",
+    "SoilType": "Fine",
+    "GuidelineValue": "0.014",
+    "Pathways": [
+      "Protection of Freshwater Aquatic Life"
+    ]
+  },
+  {
+    "Contaminant": "Naphthalene",
+    "SoilType": "Coarse",
+    "GuidelineValue": "0.017",
+    "Pathways": [
+      "Protection of Freshwater Aquatic Life"
+    ]
+  },
+  {
+    "Contaminant": "Naphthalene",
+    "SoilType": "Fine",
+    "GuidelineValue": "NGR",
+    "Pathways": [
+      "Protection of Wildlife Water"
+    ]
+  },
+  {
+    "Contaminant": "Naphthalene",
+    "SoilType": "Coarse",
+    "GuidelineValue": "NGR",
+    "Pathways": [
+      "Protection of Wildlife Water"
+    ]
+  },
+  {
+    "Contaminant": "Phenanthrene",
+    "SoilType": "Fine",
+    "GuidelineValue": "0.11",
+    "Pathways": [
+      "Overall Guideline"
+    ]
+  },
+  {
+    "Contaminant": "Phenanthrene",
+    "SoilType": "Coarse",
+    "GuidelineValue": "0.061",
+    "Pathways": [
+      "Overall Guideline"
+    ]
+  },
+  {
+    "Contaminant": "Phenanthrene",
+    "SoilType": "Ingestion",
+    "GuidelineValue": "43.0",
+    "Pathways": [
+      "Livestock Soil and Food"
+    ]
+  },
+  {
+    "Contaminant": "Phenanthrene",
+    "SoilType": "Fine",
+    "GuidelineValue": "0.11",
+    "Pathways": [
+      "Protection of Freshwater Aquatic Life"
+    ]
+  },
+  {
+    "Contaminant": "Phenanthrene",
+    "SoilType": "Coarse",
+    "GuidelineValue": "0.061",
+    "Pathways": [
+      "Protection of Freshwater Aquatic Life"
+    ]
+  },
+  {
+    "Contaminant": "Phenanthrene",
+    "SoilType": "Fine",
+    "GuidelineValue": "NGR",
+    "Pathways": [
+      "Protection of Wildlife Water"
+    ]
+  },
+  {
+    "Contaminant": "Phenanthrene",
+    "SoilType": "Coarse",
+    "GuidelineValue": "NGR",
+    "Pathways": [
+      "Protection of Wildlife Water"
+    ]
+  },
+  {
+    "Contaminant": "Pyrene",
+    "SoilType": "Fine",
+    "GuidelineValue": "7.7",
+    "Pathways": [
+      "Overall Guideline"
+    ]
+  },
+  {
+    "Contaminant": "Pyrene",
+    "SoilType": "Coarse",
+    "GuidelineValue": "0.15",
+    "Pathways": [
+      "Overall Guideline"
+    ]
+  },
+  {
+    "Contaminant": "Pyrene",
+    "SoilType": "Fine",
+    "GuidelineValue": "NGR",
+    "Pathways": [
+      "Protection of Domestic Use Aquifer"
+    ]
+  },
+  {
+    "Contaminant": "Pyrene",
+    "SoilType": "Coarse",
+    "GuidelineValue": "NGR",
+    "Pathways": [
+      "Protection of Domestic Use Aquifer"
+    ]
+  },
+  {
+    "Contaminant": "Pyrene",
+    "SoilType": "Ingestion",
+    "GuidelineValue": "7.7",
+    "Pathways": [
+      "Livestock Soil and Food"
+    ]
+  },
+  {
+    "Contaminant": "Pyrene",
+    "SoilType": "Fine",
+    "GuidelineValue": "NGR",
+    "Pathways": [
+      "Protection of Freshwater Aquatic Life"
+    ]
+  },
+  {
+    "Contaminant": "Pyrene",
+    "SoilType": "Coarse",
+    "GuidelineValue": "0.15",
+    "Pathways": [
+      "Protection of Freshwater Aquatic Life"
+    ]
+  },
+  {
+    "Contaminant": "Pyrene",
+    "SoilType": "Fine",
+    "GuidelineValue": "NGR",
+    "Pathways": [
+      "Protection of Wildlife Water"
+    ]
+  },
+  {
+    "Contaminant": "Pyrene",
+    "SoilType": "Coarse",
+    "GuidelineValue": "NGR",
+    "Pathways": [
+      "Protection of Wildlife Water"
+    ]
+  },
+  {
+    "Contaminant": "Benz[a]anthracene",
+    "SoilType": "Fine",
+    "GuidelineValue": "6.2",
+    "Pathways": [
+      "Overall Guideline"
+    ]
+  },
+  {
+    "Contaminant": "Benz[a]anthracene",
+    "SoilType": "Coarse",
+    "GuidelineValue": "6.4",
+    "Pathways": [
+      "Overall Guideline"
+    ]
+  },
+  {
+    "Contaminant": "Benz[a]anthracene",
+    "SoilType": "Fine",
+    "GuidelineValue": "12",
+    "Pathways": [
+      "Protection of Domestic Use Aquifer"
+    ]
+  },
+  {
+    "Contaminant": "Benz[a]anthracene",
+    "SoilType": "Ingestion",
+    "GuidelineValue": "6.2",
+    "Pathways": [
+      "Livestock Soil and Food"
+    ]
+  },
+  {
+    "Contaminant": "Benz[a]anthracene",
+    "SoilType": "Fine",
+    "GuidelineValue": "NGR",
+    "Pathways": [
+      "Protection of Freshwater Aquatic Life"
+    ]
+  },
+  {
+    "Contaminant": "Benz[a]anthracene",
+    "SoilType": "Coarse",
+    "GuidelineValue": "NGR",
+    "Pathways": [
+      "Protection of Freshwater Aquatic Life"
+    ]
+  },
+  {
+    "Contaminant": "Benz[a]anthracene",
+    "SoilType": "Fine",
+    "GuidelineValue": "NGR",
+    "Pathways": [
+      "Protection of Wildlife Water"
+    ]
+  },
+  {
+    "Contaminant": "Benz[a]anthracene",
+    "SoilType": "Coarse",
+    "GuidelineValue": "NGR",
+    "Pathways": [
+      "Protection of Wildlife Water"
+    ]
+  },
+  {
+    "Contaminant": "Benzo[b+j]fluoranthene",
+    "SoilType": "Fine",
+    "GuidelineValue": "6.2",
+    "Pathways": [
+      "Overall Guideline"
+    ]
+  },
+  {
+    "Contaminant": "Benzo[b+j]fluoranthene",
+    "SoilType": "Coarse",
+    "GuidelineValue": "6.2",
+    "Pathways": [
+      "Overall Guideline"
+    ]
+  },
+  {
+    "Contaminant": "Benzo[b+j]fluoranthene",
+    "SoilType": "Fine",
+    "GuidelineValue": "3",
+    "Pathways": [
+      "Protection of Domestic Use Aquifer"
+    ]
+  },
+  {
+    "Contaminant": "Benzo[b+j]fluoranthene",
+    "SoilType": "Coarse",
+    "GuidelineValue": "5.8",
+    "Pathways": [
+      "Protection of Domestic Use Aquifer"
+    ]
+  },
+  {
+    "Contaminant": "Benzo[b+j]fluoranthene",
+    "SoilType": "Ingestion",
+    "GuidelineValue": "6.2",
+    "Pathways": [
+      "Livestock Soil and Food"
+    ]
+  },
+  {
+    "Contaminant": "Benzo[b+j]fluoranthene",
+    "SoilType": "Fine",
+    "GuidelineValue": "NGR",
+    "Pathways": [
+      "Protection of Freshwater Aquatic Life"
+    ]
+  },
+  {
+    "Contaminant": "Benzo[b+j]fluoranthene",
+    "SoilType": "Coarse",
+    "GuidelineValue": "NGR",
+    "Pathways": [
+      "Protection of Freshwater Aquatic Life"
+    ]
+  },
+  {
+    "Contaminant": "Benzo[b+j]fluoranthene",
+    "SoilType": "Fine",
+    "GuidelineValue": "NGR",
+    "Pathways": [
+      "Protection of Wildlife Water"
+    ]
+  },
+  {
+    "Contaminant": "Benzo[b+j]fluoranthene",
+    "SoilType": "Coarse",
+    "GuidelineValue": "NGR",
+    "Pathways": [
+      "Protection of Wildlife Water"
+    ]
+  },
+  {
+    "Contaminant": "Benzo[k]fluoranthene",
+    "SoilType": "Fine",
+    "GuidelineValue": "6.2",
+    "Pathways": [
+      "Overall Guideline"
+    ]
+  },
+  {
+    "Contaminant": "Benzo[k]fluoranthene",
+    "SoilType": "Coarse",
+    "GuidelineValue": "6.4",
+    "Pathways": [
+      "Overall Guideline"
+    ]
+  },
+  {
+    "Contaminant": "Benzo[k]fluoranthene",
+    "SoilType": "Fine",
+    "GuidelineValue": "0.64",
+    "Pathways": [
+      "Protection of Domestic Use Aquifer"
+    ]
+  },
+  {
+    "Contaminant": "Benzo[k]fluoranthene",
+    "SoilType": "Coarse",
+    "GuidelineValue": "1.2",
+    "Pathways": [
+      "Protection of Domestic Use Aquifer"
+    ]
+  },
+  {
+    "Contaminant": "Benzo[k]fluoranthene",
+    "SoilType": "Ingestion",
+    "GuidelineValue": "6.2",
+    "Pathways": [
+      "Livestock Soil and Food"
+    ]
+  },
+  {
+    "Contaminant": "Benzo[k]fluoranthene",
+    "SoilType": "Fine",
+    "GuidelineValue": "NGR",
+    "Pathways": [
+      "Protection of Freshwater Aquatic Life"
+    ]
+  },
+  {
+    "Contaminant": "Benzo[k]fluoranthene",
+    "SoilType": "Coarse",
+    "GuidelineValue": "NGR",
+    "Pathways": [
+      "Protection of Freshwater Aquatic Life"
+    ]
+  },
+  {
+    "Contaminant": "Benzo[k]fluoranthene",
+    "SoilType": "Fine",
+    "GuidelineValue": "NGR",
+    "Pathways": [
+      "Protection of Wildlife Water"
+    ]
+  },
+  {
+    "Contaminant": "Benzo[k]fluoranthene",
+    "SoilType": "Coarse",
+    "GuidelineValue": "NGR",
+    "Pathways": [
+      "Protection of Wildlife Water"
+    ]
+  },
+  {
+    "Contaminant": "Benzo[g,h,i]perylene",
+    "SoilType": "Coarse",
+    "GuidelineValue": "250",
+    "Pathways": [
+      "Protection of Domestic Use Aquifer"
+    ]
+  },
+  {
+    "Contaminant": "Benzo[a]pyrene",
+    "SoilType": "Fine",
+    "GuidelineValue": "0.6",
+    "Pathways": [
+      "Overall Guideline"
+    ]
+  },
+  {
+    "Contaminant": "Benzo[a]pyrene",
+    "SoilType": "Coarse",
+    "GuidelineValue": "0.6",
+    "Pathways": [
+      "Overall Guideline"
+    ]
+  },
+  {
+    "Contaminant": "Benzo[a]pyrene",
+    "SoilType": "Fine",
+    "GuidelineValue": "7",
+    "Pathways": [
+      "Protection of Domestic Use Aquifer"
+    ]
+  },
+  {
+    "Contaminant": "Benzo[a]pyrene",
+    "SoilType": "Coarse",
+    "GuidelineValue": "14",
+    "Pathways": [
+      "Protection of Domestic Use Aquifer"
+    ]
+  },
+  {
+    "Contaminant": "Benzo[a]pyrene",
+    "SoilType": "Fine",
+    "GuidelineValue": "20.0",
+    "Pathways": [
+      "Direct Soil Contact"
+    ]
+  },
+  {
+    "Contaminant": "Benzo[a]pyrene",
+    "SoilType": "Coarse",
+    "GuidelineValue": "20.0",
+    "Pathways": [
+      "Direct Soil Contact"
+    ]
+  },
+  {
+    "Contaminant": "Benzo[a]pyrene",
+    "SoilType": "Ingestion",
+    "GuidelineValue": "0.6",
+    "Pathways": [
+      "Livestock Soil and Food"
+    ]
+  },
+  {
+    "Contaminant": "Benzo[a]pyrene",
+    "SoilType": "Fine",
+    "GuidelineValue": "NGR",
+    "Pathways": [
+      "Protection of Freshwater Aquatic Life"
+    ]
+  },
+  {
+    "Contaminant": "Benzo[a]pyrene",
+    "SoilType": "Coarse",
+    "GuidelineValue": "NGR",
+    "Pathways": [
+      "Protection of Freshwater Aquatic Life"
+    ]
+  },
+  {
+    "Contaminant": "Benzo[a]pyrene",
+    "SoilType": "Fine",
+    "GuidelineValue": "NGR",
+    "Pathways": [
+      "Protection of Wildlife Water"
+    ]
+  },
+  {
+    "Contaminant": "Benzo[a]pyrene",
+    "SoilType": "Coarse",
+    "GuidelineValue": "NGR",
+    "Pathways": [
+      "Protection of Wildlife Water"
+    ]
+  },
+  {
+    "Contaminant": "Chrysene",
+    "SoilType": "Fine",
+    "GuidelineValue": "6.2",
+    "Pathways": [
+      "Overall Guideline"
+    ]
+  },
+  {
+    "Contaminant": "Chrysene",
+    "SoilType": "Coarse",
+    "GuidelineValue": "6.2",
+    "Pathways": [
+      "Overall Guideline"
+    ]
+  },
+  {
+    "Contaminant": "Chrysene",
+    "SoilType": "Fine",
+    "GuidelineValue": "40",
+    "Pathways": [
+      "Protection of Domestic Use Aquifer"
+    ]
+  },
+  {
+    "Contaminant": "Chrysene",
+    "SoilType": "Coarse",
+    "GuidelineValue": "78",
+    "Pathways": [
+      "Protection of Domestic Use Aquifer"
+    ]
+  },
+  {
+    "Contaminant": "Chrysene",
+    "SoilType": "Ingestion",
+    "GuidelineValue": "6.2",
+    "Pathways": [
+      "Livestock Soil and Food"
+    ]
+  },
+  {
+    "Contaminant": "Chrysene",
+    "SoilType": "Fine",
+    "GuidelineValue": "NGR",
+    "Pathways": [
+      "Protection of Freshwater Aquatic Life"
+    ]
+  },
+  {
+    "Contaminant": "Chrysene",
+    "SoilType": "Coarse",
+    "GuidelineValue": "NGR",
+    "Pathways": [
+      "Protection of Freshwater Aquatic Life"
+    ]
+  },
+  {
+    "Contaminant": "Chrysene",
+    "SoilType": "Fine",
+    "GuidelineValue": "NGR",
+    "Pathways": [
+      "Protection of Wildlife Water"
+    ]
+  },
+  {
+    "Contaminant": "Chrysene",
+    "SoilType": "Coarse",
+    "GuidelineValue": "NGR",
+    "Pathways": [
+      "Protection of Wildlife Water"
+    ]
+  },
+  {
+    "Contaminant": "Dibenz[a,h]anthracene",
+    "SoilType": "Coarse",
+    "GuidelineValue": "4.4",
+    "Pathways": [
+      "Protection of Domestic Use Aquifer"
+    ]
+  },
+  {
+    "Contaminant": "Indeno[1,2,3-c,d]pyrene",
+    "SoilType": "Coarse",
+    "GuidelineValue": "51",
+    "Pathways": [
+      "Protection of Domestic Use Aquifer"
+    ]
+  },
+  {
+    "Contaminant": "Vinyl chloride",
+    "SoilType": "Fine",
+    "GuidelineValue": "0.014",
+    "Pathways": [
+      "Overall Guideline"
+    ]
+  },
+  {
+    "Contaminant": "Vinyl chloride",
+    "SoilType": "Coarse",
+    "GuidelineValue": "0.02",
+    "Pathways": [
+      "Overall Guideline"
+    ]
+  },
+  {
+    "Contaminant": "Vinyl chloride",
+    "SoilType": "Fine",
+    "GuidelineValue": "0.014",
+    "Pathways": [
+      "Protection of Domestic Use Aquifer"
+    ]
+  },
+  {
+    "Contaminant": "Vinyl chloride",
+    "SoilType": "Coarse",
+    "GuidelineValue": "0.02",
+    "Pathways": [
+      "Protection of Domestic Use Aquifer"
+    ]
+  }
+]

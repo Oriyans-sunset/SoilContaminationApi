@@ -1,0 +1,49 @@
+@page
+@model AnalyzeModel
+@{
+    ViewData["Title"] = "Analyze Contaminant";
+}
+
+<h2>Analyze Contaminant</h2>
+
+<form method="post">
+    <div>
+        <label>Contaminant:</label>
+        <input type="text" asp-for="Input.Contaminant" required />
+    </div>
+    <div>
+        <label>Measured Value:</label>
+        <input type="number" asp-for="Input.MeasuredValue" step="0.001" required />
+    </div>
+    <div>
+        <label>Soil Type:</label>
+        <select asp-for="Input.SoilType" required>
+            <option value="">-- Select --</option>
+            <option value="Fine">Fine</option>
+            <option value="Coarse">Coarse</option>
+        </select>
+    </div>
+    <div>
+        <label>Pathways (comma-separated):</label>
+        <input type="text" asp-for="Input.Pathways" />
+    </div>
+    <button type="submit">Analyze</button>
+</form>
+
+@if (!ViewData.ModelState.IsValid)
+{
+    <div style="color: red;">
+        @foreach (var error in ViewData.ModelState.Values.SelectMany(v => v.Errors))
+        {
+            <p>@error.ErrorMessage</p>
+        }
+    </div>
+}
+
+@if (Model.Result != null)
+{
+    <h3>Result:</h3>
+    <p><strong>Is Compliant:</strong> @Model.Result.IsCompliant</p>
+    <p><strong>Guideline Value:</strong> @Model.Result.GuidelineValue</p>
+    <p><strong>Exceeding Pathways:</strong> @string.Join(", ", Model.Result.ExceedingPathways)</p>
+}
